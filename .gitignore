@@ -1,0 +1,10 @@
+*.pdf
+*.RData
+*.png
+*.tar
+*.html
+*.zip
+*.docx
+*.csv
+.RHistory
+.DS_Store
